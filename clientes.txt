@@ -1,0 +1,3 @@
+1082665544|Pedro Ramaya|Hombre|40|pedro@gmail.com
+654651613513|Maria Mendoza|Hombre|50|maria@gmail.com
+123123123123|nuevo nuevo nuevo|Hombre|0|nuevo@gmail.com
